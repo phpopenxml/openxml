@@ -1,0 +1,17 @@
+{
+    "name": "jtrumbull/openxml",
+    "description": "Implementation of Ecma 376 OpenXML Office OpenXML File Formats",
+    "type": "lib",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Joseph Trumbull",
+            "email": "trumbull.j@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": { "OpenXml\\": "/src" }
+    }
+}
